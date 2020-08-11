@@ -1,2 +1,2 @@
 # schizophrenia-functionome
-schizophrenia and control functionoomes data
+schizophrenia and control functionome data used in this study. 
